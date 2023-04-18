@@ -5,7 +5,8 @@ public class Bicycle {
     private int speed;
 
     public Bicycle() {
-
+        // this.gear =5;
+        // this.speed=5;
     }
 
     public Bicycle(int gear, int speed) {
